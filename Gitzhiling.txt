@@ -1,0 +1,11 @@
+git push -u origin master /提交到远程
+git init 
+git status
+git log
+git add 文件/文件夹
+git commit -m "log"
+git diff readme.txt /查看不同
+git reset --hard HEAD^/版本回退
+rm test.txt
+ssh-keygen -t rsa -C "291094932@qq.com   /生成ssh秘钥
+git remote add origin git@github.com:TanMingyang/Test.git /连接远程GitHub
